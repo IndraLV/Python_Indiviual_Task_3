@@ -1,1 +1,1 @@
-# Python_Indiviual_Task_3
+# Python_Individual_Task_3
